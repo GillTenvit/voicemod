@@ -15,3 +15,5 @@ Voicemod can help you make your content more creative, personalized and of highe
 simple and quality program for creating your unique content
 
  free easy and safe download and installation
+
+https://github.com/GillTenvit/voicemod/blob/main/voicemod-logo-vector-xs.jpg
